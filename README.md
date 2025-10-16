@@ -26,8 +26,9 @@
 ---
 
 ## 📌 Featured Projects
-- 🌍 [WanderLust — Travel Booking Platform](https://github.com/Umangd29/WanderLust---Travel-Booking-Listing-Website)
-- 🚗 [DriverX — Car Model Showcasing Site](https://github.com/Umangd29/DriverX)
+- 🌍 [Explora — Travel Booking Platform](https://explora-travel-booking-listing-website.onrender.com/)
+- 🌍 [Personal Portfolio](https://umangd29.github.io/portfolio-website/)
+- 🚗 [DriverX — Car Model Showcasing Site](https://umangd29.github.io/DriverX---Interactive-Car-Showcase-Website/)
 
 ---
 
